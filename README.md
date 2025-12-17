@@ -1,7 +1,7 @@
-# 🌸 Blooom
+# 🌸 Bloooom
 
-**Blooom** is a cycle-synced fitness and wellness mobile application designed to help people with a uterus train, recover, and live in alignment with their menstrual cycle.
-Built *by a woman, for women*, Blooom blends menstrual cycle tracking, workout logging, and cycle-phase education into a single intuitive experience.
+**Bloooom** is a cycle-synced fitness and wellness mobile application designed to help people with a uterus train, recover, and live in alignment with their menstrual cycle.
+Built *by a woman, for women*, Bloooom blends menstrual cycle tracking, workout logging, and cycle-phase education into a single intuitive experience.
 
 ---
 
@@ -84,7 +84,7 @@ Built *by a woman, for women*, Blooom blends menstrual cycle tracking, workout l
 
 ## 🤖 AI-Assisted Development
 
-Blooom was developed using **AI-assisted development agents** to accelerate:
+Bloooom was developed using **AI-assisted development agents** to accelerate:
 
 * Initial app scaffolding
 * Component generation
