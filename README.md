@@ -5,8 +5,8 @@ Built *by a woman, for women*, Blooom blends menstrual cycle tracking, workout l
 
 ---
 
-![Home Screen](/READme photos/IMG_6394.jpg)
-
+![Home Screen](C:\Users\kabuki.oti\Documents\Bloooom App\create-anything\READme photos\IMG_6394.jpg)
+![Home Screen](READme photos\IMG_6394.jpg)
 
 ## ✨ Features (MVP)
 
