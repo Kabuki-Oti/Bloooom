@@ -5,8 +5,21 @@ Built *by a woman, for women*, Blooom blends menstrual cycle tracking, workout l
 
 ---
 
-![Home Screen](C:\Users\kabuki.oti\Documents\Bloooom App\create-anything\READme photos\IMG_6394.jpg)
-![Home Screen](READme photos\IMG_6394.jpg)
+<table>
+  <tr>
+    <td><img src="READme photos/IMG_6394.jpg" width="200"><br>Sign In/ Log In Screen</td>
+    <td><img src="READme photos/IMG_6373.jpg" width="200"><br>Home Screen</td>
+   <td><img src="READme photos/IMG_6374.jpg" width="200"><br>Calendar Screen</td>
+   <td><img src="READme photos/IMG_6395.jpg" width="200"><br>Tracking Screen</td>
+   <td><img src="READme photos/IMG_6397.jpg" width="200"><br>Workout Screen</td>
+  </tr>
+  <tr>
+   <td><img src="READme photos/IMG_6375.jpg" width="200"><br>BloooomVerse Stats Screen</td>
+   <td><img src="READme photos/IMG_6376.jpg" width="200"><br>BloooomVerse Phases Screen</td>
+   <td><img src="READme photos/IMG_6377.jpg" width="200"><br>BloooomVerse FAQs Screen</td>
+   <td><img src="READme photos/IMG_6378.jpg" width="200"><br>Profile Screen</td>
+  </tr>
+</table>
 
 ## ✨ Features (MVP)
 
